@@ -1,3 +1,4 @@
 *.sql
 database/01-setup.sql
 inc/config.php
+inc/classes/DB.php
