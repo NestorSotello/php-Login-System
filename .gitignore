@@ -1,5 +1,5 @@
 *.jpg
 *.sql
-php-login-system/database/01-setup.sql
-php-login-system/inc/config.php
-php-login-system/inc/classes/DB.php
+database/01setup.sql
+inc/config.pp
+inc/classes/DB.phpi
