@@ -1,5 +1,5 @@
 *.jpg
 *.sql
 database/01setup.sql
-inc/config.pp
-inc/classes/DB.phpi
+inc/config.php
+inc/classes/DB.php
