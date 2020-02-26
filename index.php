@@ -1,12 +1,9 @@
 <?php 
-
 	// Allow the config
 	define('__CONFIG__', true);
 	// Require the config
 	require_once "inc/config.php"; 
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -17,7 +14,7 @@
 
     <title>Page Title</title>
 
-    <base href="/" />
+    <base href="/"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.24/css/uikit.min.css" />
   </head>
 
@@ -29,8 +26,8 @@
   			echo date("Y m d");
   		?> 
   		<p>
-  			<a href="/login.php">Login</a>
-  			<a href="/register.php">Register</a>
+  			<a href="php-login-system/login.php">Login</a>
+  			<a href="php-login-system/register.php">Register</a>
   		</p>
   	</div>
 

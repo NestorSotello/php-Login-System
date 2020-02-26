@@ -2,7 +2,7 @@
 	// Allow the config
 	define('__CONFIG__', true);
 	// Require the config
-	require_once "inc/config.php"; 
+	require_once "inc/config.php";
 ?>
 
 <!DOCTYPE html>
@@ -20,11 +20,9 @@
   </head>
 
   <body>
-
-  	<div class="uk-section uk-container">
+	<div class="uk-section uk-container">
   		<div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
 			<form class="uk-form-stacked js-login">
-				
 				<h2>Login</h2>
 
 			    <div class="uk-margin">
