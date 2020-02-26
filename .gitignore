@@ -1,4 +1,4 @@
-*.sql
+.sql
 php-login-system/database/01-setup.sql
 php-login-system/inc/config.php
 php-login-system/inc/classes/DB.php
